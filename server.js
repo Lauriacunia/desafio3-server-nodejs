@@ -15,6 +15,10 @@
     DEPLOY
     https://silicon-melodious-twister.glitch.me
     https://glitch.com/edit/#!/silicon-melodious-twister
+
+    TUTORIAL
+    https://www.youtube.com/watch?v=5tP1Ra73c38&t=133s
+    
  */
 
 const http = require('http');
